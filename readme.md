@@ -1,6 +1,6 @@
-# Immu3d
+# Innu
 
-**Immu3d** is an advanced AI model designed to generate high-quality 3D objects based on textual descriptions. This cutting-edge technology enables creators to produce complex 3D models quickly and efficiently, making it an ideal tool for game designers, architects, and digital artists.
+**Innu** is an advanced AI model designed to generate high-quality 3D objects based on textual descriptions. This cutting-edge technology enables creators to produce complex 3D models quickly and efficiently, making it an ideal tool for game designers, architects, and digital artists.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Introduction
 
-Traditional methods for creating 3D models require significant time, skills, and resources. Immu3d revolutionizes this process by using AI to automate 3D content generation, making it accessible to users with minimal experience.
+Traditional methods for creating 3D models require significant time, skills, and resources. Innu revolutionizes this process by using AI to automate 3D content generation, making it accessible to users with minimal experience.
 
 ---
 
@@ -33,7 +33,7 @@ Traditional methods for creating 3D models require significant time, skills, and
 
 ## Model Architecture
 
-Immu3d combines multiple advanced AI technologies:
+Innu combines multiple advanced AI technologies:
 - **Generative Adversarial Networks (GANs):** Used to generate the geometry of 3D objects.
 - **Transformers:** Convert textual inputs into contextual vector representations.
 - **Rendering Optimization:** Ensures realistic textures and visual fidelity.
@@ -63,7 +63,7 @@ The model is trained on a large dataset comprising:
 
 ## Applications
 
-Immu3d simplifies workflows across various domains:
+Innu simplifies workflows across various domains:
 
 ### Use Cases
 - **Game Designers:** Quickly prototype and populate virtual worlds.
@@ -74,7 +74,7 @@ Immu3d simplifies workflows across various domains:
 
 ## API Example
 
-Immu3d provides a RESTful API for easy integration:
+Innu provides a RESTful API for easy integration:
 
 ```
 POST /generate3d
